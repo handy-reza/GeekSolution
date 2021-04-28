@@ -31,7 +31,7 @@
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">
             <center>
-            <span><font size="3" color="white" face="Helvetica Neue">GEEK ADMIN PAGE</font></span></a>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php" class="fa fa-cog fa-2x" style="color:#fff;">&nbsp;<span><font size="4.95" color="white" face="Helvetica Neue">GEEK ADMIN PAGE</font></span></a>
             </center>
             </div>
 
@@ -65,8 +65,8 @@
                   </li>
                   <li><a><i class="fa fa-edit"></i> Data Post <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="#">Tampil Data</a></li>
-                      <li><a href="#">Tambah Data</a></li>
+                      <li><a href="index.php?page=tampil_mhs">Tampil Data</a></li>
+                      <li><a href="index.php?page=tambah_mhs">Tambah Data</a></li>
                     </ul>
                   </li>
                   <li><a><i class="fa fa-dollar"></i> Data Pricing <span class="fa fa-chevron-down"></span></a>
