@@ -99,7 +99,7 @@
             <a data-toggle="tooltip" data-placement="top" title="Lock" href="#">
               <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
             </a>
-            <a data-toggle="tooltip" data-placement="top" title="Logout" href="#">
+            <a data-toggle="tooltip" data-placement="top" title="Logout" href="./login.php">
               <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
             </a>
           </div>

@@ -34,8 +34,8 @@ include('config.php');
 					<td>Lead Required</td>
 					<td>3 year minimum</td>
 					<td>
-						<a href="../index.php?page=edit_post&Nim='.$data['Nim'].'" class="btn btn-secondary btn-sm">Edit</a>
-						<a href="delete.php" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
+						<a href="#" class="btn btn-secondary btn-sm">Edit</a>
+						<a href="#" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
 					</td>
 				</tr>
 				<tr>
@@ -47,8 +47,8 @@ include('config.php');
 					<td>Lead Required</td>
 					<td>2 year minimum</td>
 					<td>
-						<a href="../index.php?page=edit_post&Nim='.$data['Nim'].'" class="btn btn-secondary btn-sm">Edit</a>
-						<a href="delete.php" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
+						<a href="#" class="btn btn-secondary btn-sm">Edit</a>
+						<a href="#" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
 					</td>
 				</tr>
 				<tr>
@@ -60,8 +60,8 @@ include('config.php');
 					<td>Lead Required</td>
 					<td>1 year minimum</td>
 					<td>
-						<a href="../index.php?page=edit_post&Nim='.$data['Nim'].'" class="btn btn-secondary btn-sm">Edit</a>
-						<a href="delete.php" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
+						<a href="#" class="btn btn-secondary btn-sm">Edit</a>
+						<a href="#" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
 					</td>
 
 				</tr>
@@ -74,8 +74,8 @@ include('config.php');
 					<td>Lead not Required</td>
 					<td>No Obligation</td>
 					<td>
-						<a href="../index.php?page=edit_post&Nim='.$data['Nim'].'" class="btn btn-secondary btn-sm">Edit</a>
-						<a href="delete.php" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
+						<a href="#" class="btn btn-secondary btn-sm">Edit</a>
+						<a href="#" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
 					</td>
 				</tr>
 			<tbody>

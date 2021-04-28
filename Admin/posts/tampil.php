@@ -9,7 +9,7 @@ include('config.php');
 		<font size="6">Data Mahasiswa</font>
 	</center>
 	<hr>
-	<a href="../index.php?page=tambah_post"><button class="btn btn-dark right">Tambah Data</button></a>
+	<a href="#"><button class="btn btn-dark right">Tambah Data</button></a>
 	<div class="table-responsive">
 		<table class="table table-striped jambo_table bulk_action">
 			<thead>
@@ -26,8 +26,8 @@ include('config.php');
 					<td>GEEK PARTNERSHIP</td>
 					<td class="col-md-12">Kami siap menjadi partner anda dalam melayani pengembangan teknologi informasi terkini yang lebih efektif dan efisien serta berkomitmen dalam memberikan support system terkait permasalahan IT.</td>
 					<td>
-					<a href="../index.php?page=edit_post&Nim='.$data['Nim'].'" class="btn btn-secondary btn-sm">Edit</a>
-					<a href="delete.php" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
+					<a href="#" class="btn btn-secondary btn-sm">Edit</a>
+					<a href="#" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
 					</td>
 				</tr>
 				<tr>
@@ -35,8 +35,8 @@ include('config.php');
 					<td>GEEK SOLUTION</td>
 					<td class="col-md-12">Kami menawarkan berbagai layanan Teknologi Informasi untuk mendukung serta meningkatkan kinerja bisnis dan usaha anda baik untuk perusahaan swasta, instansi pemerintahan hingga usaha kecil menengah (UKM/UMKM).</td>
 					<td>
-					<a href="../index.php?page=edit_post" class="btn btn-secondary btn-sm">Edit</a>
-					<a href="delete.php" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
+					<a href="#" class="btn btn-secondary btn-sm">Edit</a>
+					<a href="#" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
 					</td>
 				</tr>
 			<tbody>
