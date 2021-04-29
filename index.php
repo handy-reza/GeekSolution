@@ -300,10 +300,10 @@
         </div>
         <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
             <div class="team-wrapper">
-                <div class="team-inner" style="background-image: url('assets/img/team/7.jpg')">
+                <div class="team-inner" style="background-image: url('assets/img/team/7.jpeg')">
                 </div>
                 <div class="description">
-                    <h3> Cholid Firdaus </h3>
+                    <h3> Cholid Firdaus Abada </h3>
                     <h5> <strong> Mobile Developer </strong></h5>
                     <p>Hallo Cholid here, i create beatiful and usefull mobile apps.</p>
                 </div>
