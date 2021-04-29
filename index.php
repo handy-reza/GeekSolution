@@ -289,10 +289,10 @@
             <div class="row animate-in" data-anim-type="fade-in-up">
                 <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
                     <div class="team-wrapper">
-                        <div class="team-inner" style="background-image: url('assets/img/team/5.JPG')">
+                        <div class="team-inner" style="background-image: url('assets/img/team/5.jpg')">
                         </div>
                         <div class="description">
-                            <h3> Bagus Sadewa</h3>
+                            <h3> Gian Bagus Sadewa</h3>
                     <h5> <strong> Backend Developer </strong></h5>
                     <p>Hallo Bagus here, I'll do your backend system perfectly</p>
                 </div>
