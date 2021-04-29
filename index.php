@@ -289,7 +289,7 @@
             <div class="row animate-in" data-anim-type="fade-in-up">
                 <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
                     <div class="team-wrapper">
-                        <div class="team-inner" style="background-image: url('assets/img/team/5.jpg')">
+                        <div class="team-inner" style="background-image: url('assets/img/team/5.JPG')">
                         </div>
                         <div class="description">
                             <h3> Bagus Sadewa</h3>
