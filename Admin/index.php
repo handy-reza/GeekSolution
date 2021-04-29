@@ -60,7 +60,7 @@
               <ul class="nav side-menu">
                 <li><a href="index.php"><i class="fa fa-home"></i> Home <span class="fa fa-chevron"></span></a>
                 </li>
-                <li><a href="#"><i class="fa fa-users"></i> Data Team <span class="fa fa-chevron-down"></span></a>
+                <li><a href="#"><i class="fa fa-desktop"></i> Data Team <span class="fa fa-chevron-down"></span></a>
                   <ul class="nav child_menu">
                     <li><a href="index.php?page=tampil_mhs">Tampil Data</a></li>
                     <li><a href="index.php?page=tambah_mhs">Tambah Data</a></li>

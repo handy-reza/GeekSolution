@@ -33,7 +33,7 @@ include('config.php');
 					<td>Bikinin Web Company Profile Dong</td>
 					<td>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet quibusdam vel est perspiciatis iusto, recusandae tempora! Tempora corrupti ullam quas aspernatur fuga in earum inventore hic voluptatem beatae, fugiat saepe explicabo ab vitae possimus nesciunt ea. Labore, saepe dolorem quisquam soluta, laborum, vero quasi possimus ab molestias fuga sed reprehenderit.</td>
 					<td>
-					<a href="delete.php" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
+					<a href="#" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
 					</td>
 				</tr>
 				<tr>
@@ -45,7 +45,7 @@ include('config.php');
 					<td>Bikinin Aplikasi Mobile Dong</td>
 					<td>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet quibusdam vel est perspiciatis iusto, recusandae tempora! Tempora corrupti ullam quas aspernatur fuga in earum inventore hic voluptatem beatae, fugiat saepe explicabo ab vitae possimus nesciunt ea. Labore, saepe dolorem quisquam soluta, laborum, vero quasi possimus ab molestias fuga sed reprehenderit.</td>
 					<td>
-					<a href="delete.php" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
+					<a href="#" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?')">Delete</a>
 					</td>
 				</tr>
 
