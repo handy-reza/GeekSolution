@@ -6,7 +6,7 @@ include('config.php');
 
 <div class="container" style="margin-top:20px">
 	<center>
-		<font size="6">Data Mahasiswa</font>
+		<font size="6">Data Pricing</font>
 	</center>
 	<hr>
 	<a href="#"><button class="btn btn-dark right">Tambah Data</button></a>
